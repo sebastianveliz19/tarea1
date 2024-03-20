@@ -1,0 +1,37 @@
+{
+
+    "producto":[
+        {
+            "id": 1,
+            "descripcion": "mouse",
+            "precio": "30"
+        },
+        {
+            "id" : 2,
+            "descripcion" :"mouse",
+            "precio":"30"
+        },
+        {
+            "id" : 3,
+            "descripcion" :"pantalla",
+            "precio":"30"
+        },
+        {
+            "id" : 4,
+            "descripcion" :"memoria RAM",
+            "precio":"30"
+        },
+        {
+            "id" : 5,
+            "descripcion" :"Impresora",
+            "precio":"30"
+        },
+        {
+            "id" : 6,
+            "descripcion" :"teclado",
+            "precio":"30"
+        }
+
+    ]
+
+}
